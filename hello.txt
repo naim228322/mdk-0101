@@ -1,2 +1,2 @@
-"Текст для ветки conflict-branch" 
 Change from master branch
+Change from conflict branch
