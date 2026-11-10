@@ -1,1 +1,1 @@
-"Текст для ветки conflict-branch" 
+"Текст для ветки master" 
