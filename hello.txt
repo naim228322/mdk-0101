@@ -1,0 +1,2 @@
+Change from master branch
+Change from conflict branch
